@@ -1,2 +1,2 @@
 # olafWal.github.io
-Active Projects: <a href=https://olafWal.github.io/MinePhp">MinePHP: Minecraft/Bungee Adminstraion</a>
+Active Projects: [MinePHP: Minecraft/Bungee Adminstraion](/MinePhp)
